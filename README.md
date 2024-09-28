@@ -37,7 +37,4 @@ Simply open `index.html` in your web browser to view the Netflix clone.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aryangupta8970)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/aryan_gupta8970)
 
-## Credits
 
-- Original design inspiration from Netflix.
-- Images and assets sourced from [Netflix](https://www.netflix.com).
